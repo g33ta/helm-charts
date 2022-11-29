@@ -5,7 +5,7 @@
 replicaCount: 2
 
 image:
-  repository: sourcecode/src-code
+  repository: sourcecode/src-chttps://github.com/g33ta/sourcecode/tree/main/src-codeode
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
   tag: ""
