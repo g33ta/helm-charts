@@ -4,5 +4,5 @@ helm:
     value: ghcr.io/g33ta/sourcecode
     forcestring: true
   - name: image.tag
-    value: "1.19"
+    value: v1.0
     forcestring: true
